@@ -1,10 +1,11 @@
+/*  Faça um programa que receba o preço original de um produto, o percentual de desconto
+    aplicado sobre o produto, calcule e mostre o preço final a ser pago pelo consumidor.*/ 
 #include <stdio.h>
 
 int main() {
 
     float preco, percentualDesconto, precoFinal;
 
-    // Entrada de dados
     printf("Informe o preço do produto (em R$); ");
     scanf("%f", &preco);
     
@@ -15,7 +16,6 @@ int main() {
     precoFinal = preco * (1 - percentualDesconto / 100);
     //precoFinal = preco - (preco * percentualDesconto / 100);
 
-    // Saída de dados
     printf("O preço final com o desconto é: R$ %.2f\n", precoFinal);
 
     return 0;

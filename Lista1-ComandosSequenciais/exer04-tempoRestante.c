@@ -1,3 +1,5 @@
+/* 	Faça um programa que receba a quantidade de dias que faltam para a prova de Programação
+	I e converta para semanas e dias, em seguida, imprima o resultado. */
 #include <stdio.h>
 
 int main() {

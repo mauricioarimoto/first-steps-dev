@@ -1,5 +1,6 @@
+/*  Faça um programa que receba quatro notas da disciplina de Programação I, quatros pesos
+    diferentes para cada nota, calcule e mostre a sua média ponderada.*/
 #include <stdio.h>
-#include <math.h>
 
 int main() {
     double nota1, nota2, nota3, nota4;

@@ -1,3 +1,6 @@
+/*	Faça um programa que receba a distância percorrida (em km) de um ponto até a 
+	UENP e o consumo médio do veı́culo (em km/l). Calcule e mostre quantos litros 
+	seriam necessários para realizar o trajeto.*/
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,6 @@
+/*   Faça um programa que receba o tamanho de um arquivo (em MB), a velocidade da internet
+(em Mbps), calcule e mostre o tempo estimado de downloads em segundos. Utilize a fórmula
+seguir: tempo = tamanhoArquivo / velocidadeInternet ∗ 8(bits) */
 #include <stdio.h>
 
 int main() {

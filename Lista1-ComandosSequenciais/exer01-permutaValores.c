@@ -1,4 +1,5 @@
-
+/* 	Faça um programa que leia dois valores x e y e permute o conteúdo das duas variáveis, ou seja, 
+	o valor de x ser armazenado em y e vice-versa. Ao final, mostre o conteúdo das variáveis.*/
 #include <stdio.h>
 
 int main() {

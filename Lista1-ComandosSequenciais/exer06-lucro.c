@@ -1,10 +1,11 @@
+/*  Faça um programa que receba o custo de aquisição de um produto, o valor de sua venda,
+    calcule e mostre o lucro obtido pelo vendedor.*/
 #include <stdio.h>
 
 int main() {
    
     float custo, precoVenda, lucro;
 
-    // Entrada de dados
     printf("Informe o o custo de aquisição do produto (em R$): ");
     scanf("%f", &custo);
     
@@ -13,7 +14,6 @@ int main() {
 
     lucro = precoVenda - custo;
 
-    // Saída de dados
     printf("O lucro obtido pelo vendedor é de : R$ %.2f\n", lucro);
 
     return 0;
