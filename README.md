@@ -24,7 +24,7 @@
   
     📂 materiais/ → resumos, notas de aulas e materiais de apoio ✍️
   
-    📂 referncias/ → artigos e links úteis  ✍️
+    📂 referencias/ → artigos e links úteis  ✍️
 
 
 🛠 Como Usar
