@@ -1,15 +1,15 @@
 # Programação 1 - Ciência da Computação 🎯
 
-    Repositório da disciplina de Programação 1 do curso de Ciência da Computação. Contém exercícios, projetos e materiais de apoio.
+    Repositório dedicado à disciplina de Programação 1 do curso de Ciência da Computação. Contém exercícios, projetos e materiais de apoio.
  
 
 📌 Sobre a Disciplina
 
-    Universidade: Universidade Estadual do Norte do Paraná - Centro de Ciências Tecnológicas (CCT-UENP)
+    Universidade Estadual do Norte do Paraná - Centro de Ciências Tecnológicas (CCT-UENP)
 
-    Professor(a): Maurrício Massaru Arimoto
+    Professor: Maurício Massaru Arimoto
 
-    Propósito: Fundamentos de Programação
+    Propósito: Ensinar Fundamentos de Programação
     
     Linguagem: C
 
@@ -18,13 +18,13 @@
 
 📁 Estrutura do Repositório
 
-    📂 exercicios/ → Lista de exercícios resolvidos 📜
+    📂 exercícios/ → Lista de exercícios resolvidos 📜
   
     📂 projetos/ → Projetos desenvolvidos na disciplina 🚀
   
-    📂 materiais/ → resumos, notas de aulas e materiais de apoio 📚
+    📂 materiais/ → Exercícios resolvidos em aula, notas de aulas e materiais de apoio 📚
   
-    📂 referencias/ → artigos e links úteis  📚
+    📂 referências/ → artigos e links úteis  📚
 
 
 🛠 Como Usar
@@ -40,8 +40,8 @@
 
 💡 Contribuições
 
-    Sinta-se à vontade para sugerir melhorias ou compartilhar soluções! Basta abrir um Pull Request ou relatar um problema na aba de Issues.
+    Você pode sugerir melhorias ou compartilhar soluções! Basta abrir um Pull Request ou relatar um problema na aba de Issues.
 
 📄 Licença
 
-    Este projeto é de uso acadêmico e segue a licença Escolha uma licença MIT.
+    Este projeto é de uso acadêmico e segue a licença MIT.
