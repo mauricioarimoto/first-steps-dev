@@ -5,26 +5,26 @@ Repositório dedicado à disciplina de Programação 1 do curso de Ciência da C
 
 📌 Sobre a Disciplina
 
-    Universidade Estadual do Norte do Paraná - Centro de Ciências Tecnológicas (CCT-UENP)
+   Universidade Estadual do Norte do Paraná - Centro de Ciências Tecnológicas (CCT-UENP)
 
-    Professor: Maurício Massaru Arimoto
+   Professor: Maurício Massaru Arimoto
 
-    Propósito: Ensinar Fundamentos de Programação
+   Propósito: Ensinar Fundamentos de Programação
     
-    Linguagem: C
+   Linguagem: C
 
-    Ano: 2025
+   Ano: 2025
     
 
 📁 Estrutura do Repositório
 
-    📂 exercícios/ → Lista de exercícios resolvidos 📜
+   📂 exercícios/ → Lista de exercícios resolvidos 📜
   
-    📂 projetos/ → Projetos desenvolvidos na disciplina 🚀
+   📂 projetos/ → Projetos desenvolvidos na disciplina 🚀
   
-    📂 materiais/ → Exercícios resolvidos em aula, notas de aulas e materiais de apoio 📚
+   📂 materiais/ → Exercícios resolvidos em aula, notas de aulas e materiais de apoio 📚
   
-    📂 referências/ → artigos e links úteis  📚
+   📂 referências/ → artigos e links úteis  📚
 
 
 🛠 Como Usar
@@ -44,4 +44,4 @@ Repositório dedicado à disciplina de Programação 1 do curso de Ciência da C
 
 📄 Licença
 
-    Este projeto é de uso acadêmico e segue a licença MIT.
+   Este projeto é de uso acadêmico e segue a licença MIT.
