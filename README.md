@@ -22,9 +22,9 @@
   
     📂 projetos/ → Projetos desenvolvidos na disciplina 🚀
   
-    📂 materiais/ → resumos, notas de aulas e materiais de apoio ✍️
+    📂 materiais/ → resumos, notas de aulas e materiais de apoio 📚
   
-    📂 referencias/ → artigos e links úteis  ✍️
+    📂 referencias/ → artigos e links úteis  📚
 
 
 🛠 Como Usar
