@@ -1,6 +1,6 @@
 # Programação 1 - Ciência da Computação 🎯
 
-    Repositório dedicado à disciplina de Programação 1 do curso de Ciência da Computação. Contém exercícios, projetos e materiais de apoio.
+Repositório dedicado à disciplina de Programação 1 do curso de Ciência da Computação. Contém exercícios, projetos e materiais de apoio.
  
 
 📌 Sobre a Disciplina
@@ -40,7 +40,7 @@
 
 💡 Contribuições
 
-    Você pode sugerir melhorias ou compartilhar soluções! Basta abrir um Pull Request ou relatar um problema na aba de Issues.
+  Você pode sugerir melhorias ou compartilhar soluções! Basta abrir um Pull Request ou relatar um problema na aba de Issues.
 
 📄 Licença
 
