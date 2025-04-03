@@ -1,3 +1,43 @@
-# ProgI-CC-UENP
+# Programação 1 - Ciência da Computação 🎯
 
-Projeto da disciplina Programação I do curso de Ciência da Computação do Centro de Ciências Tecnológicas - Universidade Estadual do Norte do Paraná (CCT/UENP). Contém a solução das listas de exercícios da disciplina, implementada usando a linguagem C.
+ Repositório da disciplina de Programação 1 do curso de Ciência da Computação. Contém exercícios, projetos e materiais de apoio.
+
+📌 Sobre a Disciplina
+
+    Universidade: Universidade Estadual do Norte do Paraná - Centro de Ciências Tecnológicas (CCT-UENP)
+
+    Professor(a): Maurrício Massaru Arimoto
+
+    Propósito: Fundamentos de Programação
+    
+    Linguagem: C
+
+    Ano: 2025
+
+📁 Estrutura do Repositório
+
+  📂 exercicios/ → Lista de exercícios resolvidos 📜
+  
+  📂 projetos/ → Projetos desenvolvidos na disciplina 🚀
+  
+  📂 materiais/ → resumos, notas de aulas e materiais de apoio ✍️
+  
+  📂 referncias/ → artigos e links úteis  ✍️
+
+🛠 Como Usar
+  
+    Clone este repositório:
+       git clone https://github.com/mauricioarimoto/first-steps-dev.git
+
+    Acesse a pasta desejada e execute os códigos com:
+
+      gcc arquivo.c -o programa && ./programa  # Para C  
+      
+
+💡 Contribuições
+
+  Sinta-se à vontade para sugerir melhorias ou compartilhar soluções! Basta abrir um Pull Request ou relatar um problema na aba de Issues.
+
+📄 Licença
+
+  Este projeto é de uso acadêmico e segue a licença Escolha uma licença MIT.
